@@ -12,3 +12,4 @@ bin\windows\kafka-console-producer.bat --topic test --bootstrap-server localhost
 png3.png
 4) Читаем записи
 bin\windows\kafka-console-consumer.bat --topic test --from-beginning --bootstrap-server localhost:19092
+png4.png
